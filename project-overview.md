@@ -30,10 +30,10 @@ How does project finance work?
 
 Project financing is a loan structure that relies primarily on the project's cash flow for repayment, with the project's assets, rights and interests held as secondary collateral. 
 
-What is Limited recourse Debt?
+What is limited recourse Debt?
 
 Non-recourse financing means the borrowers and shareholders of the borrower have no personal liability in the event of monetary default.
 
-What are the characteristics of project finance?
+What are the characteristics of project finance ?
 
 The most visible characteristic of project finance is that it is non-recourse debt as to individual shareholders, including the project sponsors.
